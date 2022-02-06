@@ -71,8 +71,6 @@ x = y = 25 - 10 - 5;
 console.log(x, y); 
 */
 
-
-
 /* 
 Coding Challenge #1
 Mark and John are trying to compare their BMI (Body Mass Index), which is
@@ -118,7 +116,6 @@ console.log(BMISteve, BMIBill, steveHigherBMI);
 
 */
 
-
 /* const firstName = 'Jonas';
 const job = 'teacher';
 const birthYear = 1991;
@@ -140,7 +137,6 @@ console.log(`String with
 multiple
 lines`); */
 
-
 /* Taking Decisions: if / else Statements
 const age = 15;
 
@@ -160,7 +156,6 @@ if(birthYear <= 2000) {
     century = 21;
 }
 console.log(century); */
-
 
 /* Coding Challenge #2
 Use the BMI example from Challenge #1, and the code you already wrote, and
@@ -272,7 +267,6 @@ if (favorite === 23) { // 23 ===  23
      console.log('Why not 23?')
  } */
 
-
 /*  const hasDriversLicense = true; //A
  const hasGoodVision = true; //B
 
@@ -321,7 +315,7 @@ GOOD LUCK � */
 // console.log(teamDolphin);
 
 // let teamKoala = ((88 + 91 + 110) / 3);
-// console.log(teamKoala); 
+// console.log(teamKoala);
 
 // if (teamDolphin > teamKoala) {
 //     console.log(`Team Dolphin ${teamDolphin} points winner. `);
@@ -358,7 +352,6 @@ GOOD LUCK � */
 //     console.log('No one wins the trophy 😓');
 // }
 
-
 /* const day = 'monday';
 
 switch(day) {
@@ -384,7 +377,6 @@ switch(day) {
         console.log('Not a valid day');    
 } */
 
-
 /* const age = 23;
 age >= 18 ? console.log('I like to drink milk 🍼') : console.log('I like to drink tea 🥤')
 
@@ -399,7 +391,6 @@ if (age >= 18) {
 console.log(drink2);
 console.log(`I like to drink ${age >= 18 ? 'milk 🍼 ' : 'tea 🥤'}`);
  */
-
 
 /* Coding Challenge #4
 Steven wants to build a very simple tip calculator for whenever he goes eating in a
@@ -423,6 +414,3 @@ GOOD LUCK � */
 const bill = 275; // 40 and 430
 const tip = bill <= 300 && bill >= 50 ? bill * 0.15 : bill * 0.2;
 console.log(`This bill was ${bill}, the tip was ${tip}, and the total value ${bill + tip}`); */
-
-
-
